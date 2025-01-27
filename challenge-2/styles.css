@@ -220,10 +220,10 @@ input[type='text']::placeholder {
 }   
 
 
-/* body.dark {
+body.dark {
   background-color: var(--bg-dark);
   color: var(--text-dark);
-}  */
+} 
 
 
   input[type='text'].dark {
